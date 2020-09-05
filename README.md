@@ -1,4 +1,5 @@
-# DataCamp - Projects 
+# <b>DataCamp - Projects</b>
+
 
 
 | Project                                         | Description                                                                                              |
