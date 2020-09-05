@@ -1,7 +1,12 @@
 ![imagem](https://user-images.githubusercontent.com/56726744/92307401-91cf2680-ef6c-11ea-992c-2a7fa496cb7e.png)
 
+## DataCamp - Tracks
 
-# <b>DataCamp - Projects</b>
+Data Analyst with Python Track
+Data Scientist with Python Track
+Data Analyst with SQL Server Track
+
+## DataCamp - Projects
 
 
 
