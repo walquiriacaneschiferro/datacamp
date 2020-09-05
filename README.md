@@ -18,5 +18,3 @@
 | A Visual History of Nobel Prize Winners         | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | A Network Analysis of Game of Thrones           | Analyse the network of characters in Game of Thrones and how it changes over the course of books.        |
 | Disney Movies and Box Office Sucess             | Explore Disney movie data, then build a linear regression to predict box office sucess.                  |
-
-[DataCamp](https://learn.datacamp.com/)
