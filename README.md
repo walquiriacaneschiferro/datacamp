@@ -2,9 +2,9 @@
 
 ## DataCamp - Tracks
 
-Data Analyst with Python Track
-Data Scientist with Python Track
-Data Analyst with SQL Server Track
+- Data Analyst with Python Track
+- Data Scientist with Python Track
+- Data Analyst with SQL Server Track
 
 ## DataCamp - Projects
 
