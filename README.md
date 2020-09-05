@@ -1,3 +1,5 @@
+![datacamp-vector-logo](https://user-images.githubusercontent.com/56726744/92306938-48c9a300-ef69-11ea-8fe8-1e77b4f5c42c.png)
+
 # <b>DataCamp - Projects</b>
 
 
