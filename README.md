@@ -20,3 +20,4 @@
 | Disney Movies and Box Office Sucess             | Explore Disney movie data, then build a linear regression to predict box office sucess.                  |
 | A New Era of Data Analysis in Baseball          | Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.          |
 | Classify Song Genres from Audio Data            | Rock or rap? Apply machine learning methods in Python to classify songs into genres.                     |
+| Give Life: Predict Blood Donations              | Build a binary classifier to predict if a blood donor is likely to donate again.                         |
